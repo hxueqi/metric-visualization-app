@@ -1,0 +1,45 @@
+.bar-graph {
+  height: 300px;
+}
+
+.bar-graph .VictoryContainer {
+  background-color: #f2eedf;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Soft shadow */
+}
+
+.bar-graph .VictoryBar rect {
+  fill: #007bff; 
+}
+
+.bar-graph .VictoryBar rect:hover {
+  fill: #0056b3; 
+}
+.viewSelectionTitle {
+  font-size: 16px;
+  margin-right: 10px;
+  color: #ff0058cf; 
+}
+.viewSelectionGroup {
+  display: flex;
+  align-items: center; 
+  justify-content: center; 
+  margin-bottom: 20px;
+}
+
+.viewSelect {
+  margin-left: 10px;
+  background-color: #ff0058cf; 
+  color: white;
+  border: none;
+  border-radius: 4px;
+  padding: 8px 16px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+}
+
+.viewSelect:hover {
+  background-color:#45a049; 
+}
