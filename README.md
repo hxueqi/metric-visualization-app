@@ -2,6 +2,7 @@
 <p align="center">
   <h3 align="center">Metric Visualization App</h3>
 This repository contains the code for a metric visualization web application, consisting of a backend and frontend.
+  <p align="center">
 <br/>
 
 ## Table Of Contents
