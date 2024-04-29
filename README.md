@@ -1,7 +1,11 @@
-# Metric Visualization App
+<p align="center">
+  <h3 align="center">Metric Visualization App</h3>
 
+  <p align="center">
 This repository contains the code for a metric visualization web application, consisting of a backend and frontend.
-
+frontend/src/assets
+## About The Project
+![Screen Shot](public/app_overview.png)
 ## Backend
 
 The backend of the application is responsible for handling data storage and processing. It is structured as follows:
