@@ -8,9 +8,9 @@ This repository contains the code for a metric visualization web application, co
 - [About the Project](#about-the-project)
 - [Built With](#built-with)
 - [Getting Started](#getting-started)
-- [Future version project](#Future version project)
+- [Future version project](#Future-version-project)
 - [Authors](#authors)
-- [Acknowledgements](#acknowledgements)
+
 ## About The Project
 ![Screen Shot](frontend/src/assets/metricPreview.png)
 
